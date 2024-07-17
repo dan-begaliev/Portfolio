@@ -8,6 +8,7 @@ import Home from "./components/Home";
 import Contact from "./components/Contact";
 import Experience from "./components/Experience";
 
+//App
 function App() {
   return (
     <div className="App">
